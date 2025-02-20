@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Arial', Courier, monospace;
+  margin-top: 20px;
+}
+
+#cv {
+  border: 2px solid black;
+  padding: 40px;
+  width: 700px;
+}
+
+hr {
+  width: 90%;
+  border:  1px solid black;
+  margin-bottom: 20px;
+}
+
+
+.cv-name {
+  font-size: 1.5rem;
+  font-weight: 500;
+  
+  margin-bottom: 10px;
+}
+
+.cv-carrer {
+  font-size: 1rem;
+  font-weight: 500;
+  color: green;
+  
+
+  margin-bottom: 10px;
+}
+
+.cv-header p{
+  width: 150px;
+  margin-top: 5px;
+
+  font-size: 1rem;
+}
+
+/* Main */
+
+main > section {
+  margin-top: 30px;
+}
+
+.section-title {
+  font-weight: 500;
+  font-size: 1rem;
+  color: green;
+
+  margin-bottom: 10px;
+}
+
+section > p {
+  font-size: 1rem;
+}
+
+#skills {
+  
+}
