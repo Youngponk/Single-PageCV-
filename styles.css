@@ -66,6 +66,22 @@ section > p {
   font-size: 1rem;
 }
 
+/* Skills section */
+
 #skills {
   
 }
+
+/* Education section */
+
+#education {
+
+}
+
+.section-box-title {
+  margin-bottom: 5px;
+  color: rgb(68, 140, 233);
+  font-size: 16px;
+  font-weight: 500;
+}
+
